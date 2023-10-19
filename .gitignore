@@ -32,6 +32,7 @@ scratch/
 
 # ignore output directories
 *output/
+*results/
 
 # ignore vscode files
 .vscode/
